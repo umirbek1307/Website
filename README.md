@@ -1,1 +1,2 @@
-# WebD-Workshop DTU
+# My own web page 
+Umirbek Murotov
